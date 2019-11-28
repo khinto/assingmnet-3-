@@ -8,9 +8,9 @@ public class Main {
 
 
         NewClass assingment3 = new NewClass();
-        assingment3.EVEN(0, 20);
+        assingment3.EVEN();
 
-        assingment3.TaskTwo(5, 10);
+        assingment3._3multiple();
 
     }
 }
